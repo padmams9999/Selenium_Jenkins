@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-09T23:25:19 CEST" name="Practice Suite" finished-at="2022-07-09T23:25:28 CEST" duration-ms="9132">
+  <suite started-at="2022-07-11T03:38:43 CEST" name="Practice Suite" finished-at="2022-07-11T03:38:48 CEST" duration-ms="5541">
     <groups>
       <group name="regression">
         <method signature="Login_rediff.test_Valid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" name="test_Valid_login" class="Scenario_component.Login_rediff"/>
@@ -12,21 +12,21 @@
         <method signature="Login_rediff.test_Valid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" name="test_Valid_login" class="Scenario_component.Login_rediff"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2022-07-09T23:25:19 CEST" name="Regression1" finished-at="2022-07-09T23:25:28 CEST" duration-ms="9132">
+    <test started-at="2022-07-11T03:38:43 CEST" name="Regression1" finished-at="2022-07-11T03:38:48 CEST" duration-ms="5541">
       <class name="Scenario_component.Login_rediff">
-        <test-method is-config="true" signature="reportExtent()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:19 CEST" name="reportExtent" finished-at="2022-07-09T23:25:19 CEST" duration-ms="107" status="PASS">
+        <test-method is-config="true" signature="reportExtent()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:43 CEST" name="reportExtent" finished-at="2022-07-11T03:38:43 CEST" duration-ms="95" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportExtent -->
-        <test-method is-config="true" signature="runFirst()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:19 CEST" name="runFirst" finished-at="2022-07-09T23:25:19 CEST" duration-ms="6" status="PASS">
+        <test-method is-config="true" signature="runFirst()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:43 CEST" name="runFirst" finished-at="2022-07-11T03:38:43 CEST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runFirst -->
-        <test-method is-config="true" signature="launchApp()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:20 CEST" name="launchApp" finished-at="2022-07-09T23:25:24 CEST" duration-ms="4104" status="PASS">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:43 CEST" name="launchApp" finished-at="2022-07-11T03:38:46 CEST" duration-ms="2441" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method signature="test_Invalid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:24 CEST" name="test_Invalid_login" data-provider="dp_Invalidlogin" finished-at="2022-07-09T23:25:27 CEST" duration-ms="3529" status="PASS">
+        <test-method signature="test_Invalid_login(java.util.Map)[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:46 CEST" name="test_Invalid_login" data-provider="dp_Invalidlogin" finished-at="2022-07-11T03:38:48 CEST" duration-ms="1780" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,11 +37,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Invalid_login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:27 CEST" name="teardown" finished-at="2022-07-09T23:25:28 CEST" duration-ms="661" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:48 CEST" name="teardown" finished-at="2022-07-11T03:38:48 CEST" duration-ms="526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="runLast()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-09T23:25:28 CEST" name="runLast" finished-at="2022-07-09T23:25:28 CEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="runLast()[pri:0, instance:Scenario_component.Login_rediff@71c3b41]" started-at="2022-07-11T03:38:48 CEST" name="runLast" finished-at="2022-07-11T03:38:48 CEST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runLast -->
